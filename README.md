@@ -1,4 +1,4 @@
-DB based user-storage provider of Keycloak
+#DB based user-storage provider of Keycloak
 
 Require to have following spi configuration in keycloak 
 
